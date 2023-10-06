@@ -118,10 +118,10 @@ Described as an object-to-think-with: objects in which there is an intersection 
 ​
 4. [AlgoBlocks](https://www.researchgate.net/publication/242383829_Algoblock_a_tangible_programming_language_a_tool_for_collaborative_learning)
 Pedagogical value of programming languages comes from:
-1. Easy operation -> promotes trial and error
-2. Simultaneous Access
-3. Mutual monitoring -> allows you to learn from others
-4. Natural turn taking
+- Easy operation -> promotes trial and error
+- Simultaneous Access
+- Mutual monitoring -> allows you to learn from others
+- Natural turn taking
 Computer screen has limited amount of people able to crowd around it, indicating and pointing is harder on a computer screen compared to large blocks.
 Argues that the attention provided to tracking when people wanted a turn, passing off computer peripherals detracts from the natural flow of collaboration.
 Additionally, natural gestures to take turns emerged, such as simply reaching for blocks.
@@ -131,12 +131,12 @@ Highlights debugging skills as being important for development of logical thinki
 Uses intrinsic motivation to teach problem articulation, team work, and persistency.**
 Tested on 52 students and noted an increase in ability to identify problems and think of ways to correct them.
 Main board onto which command blocks are connected, using seven segment displays to allow the children to visualize the extent to which each motion command is carried out.
-Ability to execute the program step-by-step
+Ability to execute the program step-by-step  
 Debugging Consists of 4 Steps:
-1. Compare the goal and the actual outcome
-2. Articulate the discrepancy between the two
-3. Identify the source of the discrepancy
-4. Fix the discrepancy
+- Compare the goal and the actual outcome
+- Articulate the discrepancy between the two
+- Identify the source of the discrepancy
+- Fix the discrepancy
 "Thus, children tend to enjoy the cycle of making rough implementations of their ideas, see how they work, then go back and make adjustments and fix errors. This cycle continues until the goal is accomplished".
 Enables rapid prototyping.
 Used drawing and maze game as primary motivating examples to teach the children how to use the system, introduce the elements slowly.
@@ -162,7 +162,7 @@ Y shaped branching, the rope for jump and land
 Tern uses blocks with computer vision to compile the code using a camera attached to a normal computer.
 
 # Contact Us
-Project lead: Elliot Roe - elliot@bxcoding.org
+Project lead: Elliot Roe - elliot@bxcoding.org  
 Developer: Tiger Peng
 
 ## Funding
