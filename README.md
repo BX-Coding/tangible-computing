@@ -164,3 +164,6 @@ Tern uses blocks with computer vision to compile the code using a camera attache
 # Contact Us
 Project lead: Elliot Roe - elliot@bxcoding.org
 Developer: Tiger Peng
+
+## Funding
+This project is funded by [BX Coding](bxcoding.org)
