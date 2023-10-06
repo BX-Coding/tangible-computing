@@ -162,4 +162,5 @@ Y shaped branching, the rope for jump and land
 Tern uses blocks with computer vision to compile the code using a camera attached to a normal computer.
 
 # Contact Us
-Project lead: elliot@bxcoding.org
+Project lead: Elliot Roe - elliot@bxcoding.org
+Developer: Tiger Peng
